@@ -5,5 +5,5 @@
 ![](https://img.shields.io/github/v/release/bashumiddleschool/2021did?color=purple&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC)    
 ![](https://img.shields.io/github/downloads/bashumiddleschool/2021did/total?color=lightblue&label=%E4%B8%8B%E8%BD%BD%E6%AC%A1%E6%95%B0)  
 
-[下载课件（最新版）]()    
+[选择课件]()    
 [我要上传]()
