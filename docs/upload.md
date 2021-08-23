@@ -6,5 +6,5 @@
 3. 选择 Pull Request
 4. 等待管理员将你的文件加入 main
 - 手动提交给管理员审核
-1. 将文件链接发送到Issues里面（点击问题反馈）或私信 lijunhao2023
+1. 在[这个帖子]()下面贴出你的文件分享链接（仅支持[wenshushu](https://www.wenshushu.cn/)）
 2. 等待管理员审核
