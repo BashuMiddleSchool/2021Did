@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/-首页-333233?style=for-the-badge)](https://bashumiddleschool.github.io/2021Did/)
     
     
-![](https://img.shields.io/badge/--333233?style=for-the-badge?icon=appstore)
+![](https://img.shields.io/badge/--333233?style=for-the-badge?icon=App Store)
 正在实现...
 
 
