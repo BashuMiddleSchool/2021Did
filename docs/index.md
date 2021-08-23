@@ -7,5 +7,5 @@
 ![](https://img.shields.io/github/downloads/bashumiddleschool/2021did/total?color=lightblue&label=%E4%B8%8B%E8%BD%BD%E6%AC%A1%E6%95%B0)  
 
 [下载课件压缩包](https://github.com/BashuMiddleSchool/2021Did/releases/)    
-[我要上传](upload.md)    
+[我要上传](https://bashumiddleschool.github.io/2021Did/upload)    
 [讨论区](https://github.com/BashuMiddleSchool/2021Did/discussions)   
