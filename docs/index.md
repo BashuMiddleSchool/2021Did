@@ -1,4 +1,4 @@
-# 2021巴蜀中学did团队非官方仓库（求did官方认证）
+# 2021巴蜀中学did团队非官方仓库
 ![](https://img.shields.io/github/contributors/BashuMiddleSchool/2021Did?color=pink&label=%E4%B8%8A%E4%BC%A0%E8%80%85)  
 ![](https://img.shields.io/github/last-commit/bashumiddleschool/2021did?label=最近更新（不一定是更新课件）)  
 ![](https://img.shields.io/github/commits-since/bashumiddleschool/2021did/v1.0.0?color=yellow&label=%E6%9B%B4%E6%96%B0%E6%AC%A1%E6%95%B0)    
