@@ -6,5 +6,5 @@
 3. 选择 Pull Request
 4. 等待管理员将你的文件加入 main
 - 手动提交给管理员审核
-1. 在[这个帖子]()下面贴出你的文件分享链接（仅支持[wenshushu](https://www.wenshushu.cn/)）
+1. 在[这个帖子](https://lijunhao2023.blog.luogu.org/post-2021-ba-shu-d-tuan-dui-wen-jian-shen-hu-tie)下面贴出你的文件分享链接（仅支持[wenshushu](https://www.wenshushu.cn/)）
 2. 等待管理员审核
