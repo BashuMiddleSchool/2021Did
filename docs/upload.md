@@ -1,4 +1,5 @@
-# 上传方法
+# 上传
+[![](https://img.shields.io/badge/-首页-blueviolet)](https://bashumiddleschool.github.io/2021Did/)[![](https://img.shields.io/badge/-下载-blue)](https://bashumiddleschool.github.io/2021Did/download)    
 - 使用GitHub上传
 1. 点击Upload Files
 2. 上传你的文件
