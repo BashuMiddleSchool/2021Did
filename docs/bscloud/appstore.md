@@ -1,4 +1,4 @@
-# Bashu Cloud
+# Bashu Cloud App Store
 [![](https://img.shields.io/badge/-首页-333233?style=for-the-badge)](https://bashumiddleschool.github.io/2021Did/)
     
     
