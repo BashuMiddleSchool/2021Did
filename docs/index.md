@@ -6,5 +6,5 @@
 
 
 | [服务状态](https://bashumiddleschool.github.io/2021Did/status) | [介绍](https://bashumiddleschool.github.io/2021Did/intro) | copyright © 2021 BashuMiddleSchool. |
-| :------: |:--------: | :---------: |
+| :------: | :--------: | :---------: |
 | Bashu Cloud | | |
