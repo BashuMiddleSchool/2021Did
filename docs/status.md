@@ -5,3 +5,6 @@
 ![](https://img.shields.io/github/issues/bashumiddleschool/2021did?label=%E5%BB%BA%E8%AE%AE%E6%88%96%E5%8F%8D%E9%A6%88)   
 ![](https://img.shields.io/github/issues-pr/bashumiddleschool/2021did?label=%E6%96%87%E4%BB%B6%E5%AE%A1%E6%A0%B8%E9%98%9F%E5%88%97)    
 ![](https://img.shields.io/github/deployments/bashumiddleschool/2021did/github-pages?label=%E7%BD%91%E7%AB%99%E6%9C%80%E8%BF%91%E6%9B%B4%E6%96%B0)
+
+## 巴蜀云
+![](https://img.shields.io/badge/%E5%B7%B4%E8%9C%80%E4%BA%91App%20Store-%E6%AD%A3%E5%B8%B8-brightgreen)
